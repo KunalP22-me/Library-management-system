@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "library-management_bd868bb3"
+    },
+    {
+      "type": "java",
+      "name": "Launch with Arguments Prompt",
+      "request": "launch",
+      "mainClass": "",
+      "args": "${command:SpecifyProgramArgs}"
+    }
+  ]
+}

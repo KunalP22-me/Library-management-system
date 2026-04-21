@@ -8,7 +8,7 @@ A desktop-based Library Management System built using **Java Swing** and **MySQL
 ### 🚀 Features
 
 * ✅ **Login / Registration** with role-based access
-* 📚 Add, search, issue, and return books
+* 📚 Add, search, issue, and return books 
 * 👤 Manage student accounts and users
 * 📊 View usage statistics
 * 🛠 Admin panel for user management
